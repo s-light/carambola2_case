@@ -32,7 +32,7 @@ designing the case
     all files in carambola2_case
 </span> by
 <a xmlns:cc="http://creativecommons.org/ns#"
-        href="https://github.com/s-light/subluceo"
+        href="https://github.com/s-light/carambola2_case"
         property="cc:attributionName"
         rel="cc:attributionURL">
     Stefan Krüger (s-light)
